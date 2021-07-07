@@ -1,0 +1,1 @@
+This code was compiled of Windows 10 with Visual Studio 2017. It may or may not run on your machine, but I figured it was worth a try. Results are in "results.txt"
